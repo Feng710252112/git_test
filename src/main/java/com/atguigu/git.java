@@ -10,5 +10,6 @@ public class  git {
         System.out.println("fourth commit");
         System.out.println("push test!");
         System.out.println("pull test!");
+        System.out.println("gitee test");
     }
 }
